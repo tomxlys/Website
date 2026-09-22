@@ -76,7 +76,7 @@
     "place-night": true
   },
   "discord": {
-    "enabled": talse,
+    "enabled": false,
     "webhookUrl": "j",
     "events": {
       "connect": true,
